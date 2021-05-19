@@ -1,0 +1,30 @@
+Predicitng the Delivery time Using Sorting Time
+Simple Linear Regression
+y= b0 + b1 X
+b0,b1 are ==> Features or Parameters
+X==> Dependent Variable
+Y==> Independent Variable
+Loss Function  Or Optimisation Function==> Ordinary Least  Squares
+
+Report for problem 1
+* There are very low number of records in data set  so there are  NO MISSING VALUES,NO NAN VALUES ,NO OUTLIERS 
+*Since the data set feature Names is in not perfect format ,I  decided to chagnge the name format 
+*The Correlation between the dependent and independent variables are(r= 0.82) which means moderatly Correlated.
+* calculated  the Predicted values and Errors
+* Mean Squared Error and R^2  values are: [r^2 = 0.68] [mse =7.79 ]
+ here we are going to use OLS method
+
+
+
+Bulding a Prediction model for Salary Hike
+
+
+Report for problem 2
+
+* There are very low number of records in data set  so there are  NO MISSING VALUES,NO NAN VALUES ,NO OUTLIERS   are present 
+* The Data set has dimensions of (21,2)
+*Skewness is Slightly Postive Skewness
+*Kurtosis is Slightly Negitive Kurtosis
+*The Correlation between the dependent and independent variables are(r= 0.92) which means Perfectly  Correlated.
+* calculated  the Predicted values and Errors
+* Mean Squared Error and R^2  values are:[r^2 = 0.95] [mse =6502000509.014902 ]
